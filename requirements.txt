@@ -1,0 +1,8 @@
+fastapi-poe==0.0.16
+gpt-2-simple
+fastapi
+uvicorn
+pydantic
+python-multipart
+aiofiles
+python-dotenv
